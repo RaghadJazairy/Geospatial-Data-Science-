@@ -1,4 +1,4 @@
-# Geospatial-Data-Science-
+# Geospatial-Data-Science
 Raghad J. Data Science Portfolio 
 ## 📂 Targeted Industry Focus
 I am interested in applying my spatial expertise to:
