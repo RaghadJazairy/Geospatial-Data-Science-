@@ -2,9 +2,13 @@
 Raghad J. Data Science Portfolio 
 ## 📂 Targeted Industry Focus
 I am interested in applying my spatial expertise to:
+
 **Agriculture (AgTech):** Using multispectral imagery and regression models (XGBoost/Random Forest) to monitor crop health and predict yields.
+
 **Logistics & Tech (e.g., Fuso/Rakuten):** Optimizing supply chains and "last-mile" delivery through spatial clustering, network analysis.
+
 **Healthcare & Sustainability:** Analyzing spatial access to medical services and modeling environmental change for habitat conservation.
+
 **Imagery & Remote Sensing:** Leveraging `Rasterio` and `Deep Learning` to extract features from satellite and aerial data.
 ---
 
