@@ -1,5 +1,5 @@
 # Geospatial-Data-Science
-Raghad J. Data Science Portfolio 
+Raghad J. Data Science Portfolio **Currenlty ongoing projects!** Dec 2025
 ## 📂 Targeted Industry Focus
 I am interested in applying my spatial expertise to:
 
