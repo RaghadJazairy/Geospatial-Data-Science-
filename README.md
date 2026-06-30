@@ -22,7 +22,7 @@ Identified **12 critical electrical substations** across the NYC/New Jersey regi
 
 ![Risk Map](risk_map.png)
 
-*Red dots = at-risk substations inside FEMA flood zones. Grey dots = safe substations. Blue polygons = FEMA Special Flood Hazard Areas (Zone AE).*
+*🔴 Dark Red = Critical risk substations. 🟠 Orange = High risk substations. 🟡 Yellow = Moderate risk substations. 🟢 Dark Green = Safe substations. Blue polygons = FEMA Special Flood Hazard Areas (Zone AE).*
 
 ---
 
