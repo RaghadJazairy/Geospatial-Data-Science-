@@ -1,4 +1,4 @@
-# Geospatial-Data-Science
+# Geospatial Data Science
 Raghad J. Data Science Portfolio **Currenlty ongoing projects!** 
 
 **Latest Project June 2026**
