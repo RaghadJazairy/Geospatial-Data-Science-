@@ -4,7 +4,7 @@ Raghad J. Data Science Portfolio **Currenlty ongoing projects!**
 **Latest Project June 2026**
 NE Resilience Grid
 
-# ⚡ Northeast Grid Inundation Risk Analysis
+# ⚡ Northeast Grid Flood Risk Analysis
 
 > Identifying critical electrical infrastructure vulnerable to coastal flooding using Python, GeoPandas, and live FEMA flood zone data.
 
